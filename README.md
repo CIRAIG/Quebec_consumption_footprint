@@ -1,0 +1,1 @@
+# Quebec_consumption_footprint
