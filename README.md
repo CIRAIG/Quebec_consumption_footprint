@@ -4,4 +4,4 @@ and the consumption data from "Institut de la statistique Québec" (https://www.
 It contains three notebooks:
 - technology_matrix.ipynb describes the extrapolation of the Canadian sectors of EXIOBASE3 into Quebec sectors
 - final_demand.ipynb describes the formatting of the final_demand by Quebec households
-- Footprint Quebec.ipynb calculates the associated footprint
+- footprint_Quebec.ipynb calculates the associated footprint
